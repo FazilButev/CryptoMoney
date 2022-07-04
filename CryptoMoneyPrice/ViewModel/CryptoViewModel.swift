@@ -22,7 +22,7 @@ struct CryptoListViewModel {
     } extension olarak aşağıya taşındı. */
     
 }
-
+//CryptoListModeli oluşturuldu.
 extension CryptoListViewModel {
     
     func numberOfRowsInSection() -> Int {
